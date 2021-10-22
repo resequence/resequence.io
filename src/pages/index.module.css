@@ -5,7 +5,8 @@
   max-width: 100%;
   min-height: 100vh;
 
-  padding: 0;
+  padding-left: 2rem;
+  padding-right: 2rem;
   margin: 0;
   
   align-items: center;
@@ -15,13 +16,13 @@
 .title {
   font-family: "Nunito Sans";
   font-weight: 800;
-  font-size: 100px;
+  font-size: 80px;
 }
 
 .description {
   font-family: "Nunito Sans";
   font-weight: 400;
-  font-size: 24px;
+  font-size: 22px;
   box-sizing: border-box;
   margin: auto;
   max-width: 980px;
@@ -31,5 +32,5 @@
   margin-top: 2rem;
   font-family: "Nunito Sans";
   font-weight: 800;
-  font-size: 24px;
+  font-size: 22px;
 }
